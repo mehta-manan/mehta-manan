@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C, C++, C#, Unity**
 
-- 📫 mail me **mehta.manan@aol.com**
+- 📫 Mail me **mehta.manan@aol.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
